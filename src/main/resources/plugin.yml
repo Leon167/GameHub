@@ -1,0 +1,11 @@
+name: GameHub
+version: 1.0
+authors: [Leon167, LekoHD]
+description: Official GameHub Plugin
+main: de.leonkoth.gamehub.GameHub
+
+commands:
+  gamehub:
+    aliases: [gh, ghub]
+    description: Information.
+    usage: /gamehub
